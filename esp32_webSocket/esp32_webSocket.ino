@@ -3,7 +3,7 @@
 
 const char* ssid = "OnePlus Nord CE 3 Lite 5G";
 const char* password = "12345678";
-const char* websocket_server = "ws://192.168.83.93:3001";  // Update with your server IP
+const char* websocket_server = "ws://192.168.0.101:3001";  // Update with your server IP
 
 using namespace websockets;
 WebsocketsClient client;
